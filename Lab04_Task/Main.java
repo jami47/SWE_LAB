@@ -29,5 +29,5 @@ public class Main {
     }
 }
 
-//! Lab4 SWE-> Try to use Adapter or Bridge Pattern. General Remote dia jate youtube chalano jay, etai hocche main kaj.
+//! Lab4 SWE-> Try to use Adapter or Bridge Pattern.
 //* https://code.visualstudio.com/docs/java/java-tutorial
